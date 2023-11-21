@@ -41,6 +41,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>aws-demo-docker</finalName>
 	</build>
 
 </project>
